@@ -14,6 +14,8 @@ Login and pass - Guest
 
 Create Send And Receive folder 
 
+dotnet add package RabbitMQ.Client in both folders
+
 dotnet build 
 
 dotnet run 
