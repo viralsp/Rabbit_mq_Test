@@ -1,0 +1,17 @@
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\bin\Debug\net8.0\Receive.exe
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\bin\Debug\net8.0\Receive.deps.json
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\bin\Debug\net8.0\Receive.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\bin\Debug\net8.0\Receive.dll
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\bin\Debug\net8.0\Receive.pdb
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\obj\Debug\net8.0\Receive.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\obj\Debug\net8.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\obj\Debug\net8.0\Receive.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\obj\Debug\net8.0\Receive.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\obj\Debug\net8.0\Receive.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\obj\Debug\net8.0\Receive.csproj.Up2Date
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\obj\Debug\net8.0\Receive.dll
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\obj\Debug\net8.0\refint\Receive.dll
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\obj\Debug\net8.0\Receive.pdb
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\obj\Debug\net8.0\Receive.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Receive\obj\Debug\net8.0\ref\Receive.dll

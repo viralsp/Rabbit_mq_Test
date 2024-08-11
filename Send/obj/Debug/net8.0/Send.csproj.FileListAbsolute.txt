@@ -1,0 +1,17 @@
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\obj\Debug\net8.0\Send.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\obj\Debug\net8.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\obj\Debug\net8.0\Send.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\obj\Debug\net8.0\Send.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\obj\Debug\net8.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\bin\Debug\net8.0\Send.exe
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\bin\Debug\net8.0\Send.deps.json
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\bin\Debug\net8.0\Send.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\bin\Debug\net8.0\Send.dll
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\bin\Debug\net8.0\Send.pdb
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\obj\Debug\net8.0\Send.csproj.Up2Date
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\obj\Debug\net8.0\Send.dll
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\obj\Debug\net8.0\refint\Send.dll
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\obj\Debug\net8.0\Send.pdb
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\obj\Debug\net8.0\Send.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\zeus\training-main\training-main\task5\backend_excel\Send\obj\Debug\net8.0\ref\Send.dll
